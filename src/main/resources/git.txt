@@ -3,4 +3,10 @@ git --version : Kiểm tra version
 git status :Xem trạng thái thư mục
 git add index.html
 git commit -m "Add index.html"
+git remote -v
+git remote add origin [https://github.com/Tiendat2K2/Railway-96-JavaCore.git]
+git branch -M main
+git push -u origin main
+
+
 

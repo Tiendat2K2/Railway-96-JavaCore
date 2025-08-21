@@ -1,0 +1,6 @@
+git init : Khởi tạo project
+git --version : Kiểm tra version
+git status :Xem trạng thái thư mục
+git add index.html
+git commit -m "Add index.html"
+
